@@ -1,0 +1,16 @@
+node_modules
+cache
+uploads
+routes/uploads/
+config/
+videointerview
+veSignature
+resumeJsonFiles/ResumeCompare/latest.json
+resumeJsonFiles/ResumeCompare/old.json
+package-lock.json
+config/config.js
+.vscode
+assets/google_obj/googleApiObj.js
+jsonarrays/
+log/
+certificateSignature
