@@ -1,0 +1,30 @@
+module.exports = {
+    invalidRequest: "Invalid request!",
+    intrnlSrvrErr: "Please try after some time.",
+    tokenGenException:"Unable to generate token",
+    unauthorized: "Unauthorized access",
+    forbiddenAccess:"You don't have permission to access this page",
+    invalid_token: "Invalid token",
+    sessionExpired:"Session expired",
+    inactiveAccount: "Your account has been inactive,please contact admin for further assistance",
+    loggedOut:"You have been successfully logged out",
+
+    recordCreated: "New {record} created successfully",
+    recordUpdated:"{record} updated successfully",
+    duplicateRecord:"This {field} already exists",
+    statusUpdated:"Status updated successfully",
+    missingKey:"'{key}' field is required",
+    invalidValue:"'{key}' field has invalid value",
+    invalidIntegerValue:"'{key}' should be an integer only",
+
+    invalidCredentials:"Username or passsword is incorrect",
+    incorrectEmail:"This email doesn't exists",
+    incorrectPassword:"you have entered incorrect current password",
+    passswordChanged:"You have successfully updated your password",
+    forgotPassword:"Use the otp sent on your mail to reset the password",
+    otpExpired:"OTP expired",
+    incorrectOtp:"You have entered incorrect otp",
+
+    typeNotUpdateable: "First delete the sub categories associated with this category.Only then type could be changed",
+    userCreated: "User created successfully",
+}
